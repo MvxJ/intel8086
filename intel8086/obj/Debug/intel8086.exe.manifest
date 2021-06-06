@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="intel8086.exe" size="125944">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="intel8086.exe" size="126968">
       <assemblyIdentity name="intel8086" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JmIZlx6pfLRddAvyxeSFjM5e1NNzlg16TOij5D/aVB8=</dsig:DigestValue>
+        <dsig:DigestValue>r0mm5h2UJE3/+/ra+L73+cpb9WNXXcs8jcPSLNFVOsg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

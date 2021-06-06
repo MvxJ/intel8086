@@ -639,5 +639,27 @@ namespace intel8086
         {
 
         }
+
+        private void label5_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void clear_Click_1(object sender, EventArgs e)
+        {
+            AX_H.Text = " ";
+            BX_H.Text = " ";
+            CX_H.Text = " ";
+            DX_H.Text = " ";
+            SI_H.Text = " ";
+            DI_H.Text = " ";
+            BP_H.Text = " ";
+            SP_H.Text = " ";
+            offset.Text = " ";
+            polecenie.Text = " ";
+            rozkaz.Text = " ";
+            rej_docelowy.Text = " ";
+            rej_zrodlowy.Text = " ";
+        }
     }
 }

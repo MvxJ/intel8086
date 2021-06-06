@@ -32,3 +32,17 @@ C:\Users\maksymilian.jachymcz\Desktop\intel8086\intel8086\bin\Debug\intel8086.ap
 C:\Users\maksymilian.jachymcz\Desktop\intel8086\intel8086\obj\Debug\intel8086.exe.manifest
 C:\Users\maksymilian.jachymcz\Desktop\intel8086\intel8086\obj\Debug\intel8086.application
 C:\Users\maksymilian.jachymcz\Desktop\intel8086\intel8086\obj\Debug\intel8086.Form1.resources
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\bin\Debug\intel8086.exe.config
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\bin\Debug\intel8086.exe.manifest
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\bin\Debug\intel8086.application
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\bin\Debug\intel8086.exe
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\bin\Debug\intel8086.pdb
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.csprojAssemblyReference.cache
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.Form1.resources
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.Properties.Resources.resources
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.csproj.GenerateResource.cache
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.csproj.CoreCompileInputs.cache
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.exe.manifest
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.application
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.exe
+C:\Users\maksymilian.jachymcz\Desktop\Intel8086_Jachymczak_Maksymilian\intel8086Project_Jachymczak\intel8086\obj\Debug\intel8086.pdb

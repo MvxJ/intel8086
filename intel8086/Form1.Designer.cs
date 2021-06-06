@@ -68,6 +68,8 @@
             this.label15 = new System.Windows.Forms.Label();
             this.SP_D = new System.Windows.Forms.TextBox();
             this.polecenie = new System.Windows.Forms.Label();
+            this.clear = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // BX_D
@@ -441,6 +443,27 @@
             this.polecenie.TabIndex = 48;
             this.polecenie.Click += new System.EventHandler(this.label5_Click);
             // 
+            // clear
+            // 
+            this.clear.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.clear.Location = new System.Drawing.Point(109, 395);
+            this.clear.Name = "clear";
+            this.clear.Size = new System.Drawing.Size(75, 23);
+            this.clear.TabIndex = 49;
+            this.clear.Text = "Wyczyść";
+            this.clear.UseVisualStyleBackColor = true;
+            this.clear.Click += new System.EventHandler(this.clear_Click_1);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(17, 400);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(92, 13);
+            this.label5.TabIndex = 50;
+            this.label5.Text = "Wyczyść wartości";
+            this.label5.Click += new System.EventHandler(this.label5_Click_1);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -448,6 +471,8 @@
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(834, 441);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.clear);
             this.Controls.Add(this.polecenie);
             this.Controls.Add(this.offset);
             this.Controls.Add(this.label15);
@@ -537,6 +562,8 @@
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.TextBox SP_D;
         private System.Windows.Forms.Label polecenie;
+        private System.Windows.Forms.Button clear;
+        private System.Windows.Forms.Label label5;
     }
 }
 
